@@ -1,0 +1,49 @@
+body {
+    background-color: antiquewhite;
+}
+
+.box0 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.container0 {
+    background-color: aquamarine;
+    width: 800px;
+    height: 400px;
+    border-radius: 0 0 200px 0;
+}
+
+.container1 {
+    background-color: hotpink;
+    width: 500px;
+    height: 400px;
+    border-radius: 0 0 0 200px;
+}
+
+.container2 {
+    background-color: azure;
+    width: 1300px;
+    height: 600px;
+    margin: 0 auto;
+    border-radius: 500px;
+}
+
+.box1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.container3 {
+    background-color: black;
+    width: 650px;
+    height: 400px;
+}
+
+.container4 {
+    background-color: black;
+    width: 650px;
+    height: 400px;
+}
